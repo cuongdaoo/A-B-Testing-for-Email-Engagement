@@ -22,7 +22,7 @@ By applying statistical analysis, this A/B test aims to identify whether **Subje
 
 ## 2. 📊 Data Description
 
-The dataset contains 1000 records, each representing one sent email. Below is a description of the attributes and how performance metrics are derived:
+The dataset contains 400 records, each representing one sent email. Below is a description of the attributes and how performance metrics are derived:
 
 ### 🔹 Columns
 
